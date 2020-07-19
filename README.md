@@ -46,3 +46,20 @@ Takip Ettiğim Sayfalar
 5-) gencayyildiz.com
 6-) W3schools : Programlada syntaxları yada nasıl yapılıyordu gibi sorularım olduğun da kullandığım ve çok yararlı bulduğum bir sayfa
 7-) Mockaroo : SQL için çalışma hazır çalışma dataları oluşturmamızı sağlayan bir site
+
+#### Microsoft Build 2020 Etkinlikte Duyurulan Yenilikler
+
+Build 2020’de operasyonel veritabanı hizmetlerini ve analitiği gerçek zamanlı olarak bir araya getiren Azure Synapse Link tanıtıldı. Maliyetleri düşüren ve zaman kazandıran Azure Synapse Link, veri hareketlerini yönetmeye gerek kalmadan müşterilerin değerli bilgiler elde etmesini sağlıyor.
+
+Geliştiricilerin Visual Studio ve Visual Studio Code'dan Teams uygulamaları oluşturmaları ve yayınlamaları için Microsoft Teams'e, yenilikler sunuldu. Bu yeni yetenekler BT yöneticilerinin Teams’teki kullanıcıların iş kollarını ve ISV uygulamalarını değerlendirmesine ve iş dağılımı yapmasına olanak tanıyor.
+
+Yeni güncellemeler eklenen Fluid Framework, açık kaynak platformu olarak geliştiricilere sunulmaya başlandı. Böylece Office.com ve Web için Outlook'taki Fluid bileşenleri de son kullanıcılara sağlanmış oldu.
+Azure Machine Learning ve OSS araçlarına getirilen yeniliklerle müşterilerin yapay zekâ modellerini daha sorumlu bir şekilde kullanmasına yardımcı olmak için yeni Responsible ML (Sorumlu Makine Öğrenmesi) araçları sunuldu. Bu araç, model yorumlama yeteneğini geliştirerek veri güvenliğini ve kullanıcı gizliliği garanti altına alacak, yapay zeka sistemlerinin geliştirilmesinde sorumluluk anlayışını güçlendirecek.
+
+Etkinlikte, 1 milyar Windows 10 cihazında birlikte uygulama geliştirmeye yardımcı olmak için Project Reunion girişimi de tanıtıldı. Project Reunion, Win32 ve UWP API'leri ile entegrasyonu kolaylaştırmak ve Windows 10 sürümleri kullanılan tüm cihazlarda çalışan kullanışlı uygulamalar geliştirmek üzere bir “Windows geliştirici platformu” olarak oluşturuldu.
+
+Power Automate çözümüne kapsamlı düşük kodlu Robotik Proses Otomasyonu (RPA) teknolojisini sunmak için yatırımlarını sürdüren Microsoft, düşük kodlu ve kullanımı kolay RPA geliştirme ortamlarının lider sağlayıcısı Softomotive'i satın aldı. Softomotive’in teknolojisi, Microsoft müşterilerinin işlerini kolaylaştırmak için kullanıcı arayüzü akışlarına destek olan çözümler sunmaya başladı.
+
+Etkinlikte, Azure'da yer alan dünyanın en güçlü süper yapay zekâ bilgisayarlarından birini de duyuruldu. OpenAI ile işbirliğiyle özel olarak geliştirilen bu süper bilgisayar gücünü Azure bulut altyapısından alıyor. Sistem, dağıtılmış devasa yapay zekâ modelleri geliştirmek için özel olarak tasarlandı.
+
+Visual Studio ürün ailesiyle Microsoft, her geliştiriciye sınıfının en iyisi araçları sağlanmaya devam ediyor. Build 2020’de, yeni bir geliştirici kutusu kurmak, yeni bir projeye katılırken veya uzaktan çalışmaya geçerken ortak bir senaryo oluşturmak için Visual Studio Codespaces de tanıtıldı. VS Codespaces, geliştiricilerin dakikalar içinde tamamen yapılandırılmış geliştirme ortamları oluşturması için bulutun gücünden faydalanıyor.
